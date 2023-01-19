@@ -1,0 +1,14 @@
+{
+  "name": "ACCOUNTS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.mjs",
+    "start":"node index.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.4"
+  }
+}
